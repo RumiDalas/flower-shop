@@ -76,6 +76,70 @@ body {
     line-height: 30px;
 }
 
+.flowers-container{
+    display: flex;
+    gap: 4;
+    justify-content: space-between;
+    max-height: 500px;
+    margin: 20px 0px;
+}
+
+/* .single-flower-container{
+    border: solid;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding-top: 50px;
+    height: 420px;
+     
+} */
+.flower-name{
+    color: #272727;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 20px;
+}
+
+
+.first-flower-container {
+    background-color:  rgba(167, 33, 98, 0.15);;
+    border: 1px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding-top: 50px;
+    height: 420px;
+    text-align: center;
+     
+}
+
+.second-flower-container {
+    background-color:  rgba(5, 151, 160, 0.15);
+    border: 1px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding-top: 50px;
+    height: 420px;
+     
+}
+
+.third-flower-container {
+    background-color: rgba(71, 125, 17, 0.15);
+    border: 1px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding-top: 50px;
+    height: 420px;
+     
+}
+
+.flower{
+    width: 350px;
+    height: 420px;
+    
+}
+
 
 
 
