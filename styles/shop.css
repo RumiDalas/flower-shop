@@ -6,3 +6,47 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    font-size: 20px;
+    color: #FFF;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+/* header related styles */
+.header {
+    background-color: #FFF8F3;
+    max-height: 850px;
+    margin-bottom: 20px;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 150px 0px 150px;
+}
+
+.banner-content {
+    max-width: 50%;
+
+}
+
+.banner .profile-pic {
+    max-width: 50%;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 70px;
+    font-weight: 800;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+
+
