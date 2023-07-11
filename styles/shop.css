@@ -174,7 +174,6 @@ body {
 }
 
 .instra-images{
-    /* padding: 30px 150px 0px 150px; */
     width: 80%;
     margin: 0 auto;
 }
@@ -195,9 +194,35 @@ body {
 
 
 
+/* latest deals */
+.latest-deals{
+    max-width: 80%;
+    margin: 0 auto;
+
+}
 
 
+.img-portion{ 
+   position: absolute;
+   
+   
+}
 
+.description {
+    position: relative;  
+    text-align: center;
+    padding-top: 40px;
 
+}
 
+.latest-third{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
 
+    margin-top: 60px;
+}
+
+.text-box{
+    width: 40%;
+}
