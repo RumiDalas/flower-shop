@@ -162,6 +162,37 @@ body {
 
 }
 
+/* instra part */
+.instragram{
+   margin-top: 40px;
+   margin-bottom: 40px;
+}
+
+.instra-info{
+    text-align: center;
+    margin: 40px;
+}
+
+.instra-images{
+    /* padding: 30px 150px 0px 150px; */
+    width: 80%;
+    margin: 0 auto;
+}
+
+.image-container{
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+    gap: 4px;
+    
+}
+
+.img-one{
+    text-align: center;
+    height: 200px;
+    width: 300px;
+}
+
 
 
 
