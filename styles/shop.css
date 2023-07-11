@@ -237,6 +237,19 @@ body {
 }
 
 /* extra start */
+.bonus{
+    background-color: #E55473;
+    height: 100px;
+    text-align: center;
+}
+
+.buy{
+    padding-top: 10px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 400;
+}
+
 /* extra end */
 footer {
     background-color: #111010;
